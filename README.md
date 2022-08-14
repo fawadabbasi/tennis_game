@@ -37,8 +37,7 @@ composer install
 
 ## Testing
 
-PHPUnit is pre-configured to run tests. PHPUnit can be run using a composer script. To run the unit tests, from the
- root of the PHP kata run:
+PHPUnit is pre-configured to run tests. PHPUnit can be run using a composer script. To run the unit tests, 
 
 ```shell script
 composer test

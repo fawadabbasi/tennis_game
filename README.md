@@ -1,5 +1,5 @@
 # Tennis Refactoring in PHP 
-See the [top level readme](../README.md) for general information about this exercise. This code was a take home test for a company 
+This code was a take home test for a company 
 ## Installation
 
 The tennis_game uses:
